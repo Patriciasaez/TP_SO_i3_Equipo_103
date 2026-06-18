@@ -1,0 +1,1 @@
+mi cpu es: AMD RYZEN 3 3200 G con 3600 Hz y 4 nucleos.
