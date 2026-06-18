@@ -1,2 +1,11 @@
 Beta Martinez - IP: 111.222.333.444 - Hora 11:20
+Gamma
+Nombre y apellido: Franco Rodriguez Cristiano
+IP:192.168.1.9
+Hora:11:21
+
+Alfa
+Nombre y apellido: Dan Ortu
+IP: 192.168.2.72
+Hora: 11:26
 
