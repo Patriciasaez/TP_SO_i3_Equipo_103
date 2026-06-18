@@ -1,1 +1,4 @@
-
+Gamma
+Nombre y apellido: Franco Rodriguez Cristiano
+IP:192.168.1.9
+Hora:11:21
