@@ -1,0 +1,39 @@
+Patricia Martinez
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::cfec:f8d1:66e:c0ae%9
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : Home
+   Direcci¢n IPv6 . . . . . . . . . . : 2802:8010:6118:4e00:2a2c:5f13:926f:901
+   Direcci¢n IPv6 temporal. . . . . . : 2802:8010:6118:4e00:59ed:f28f:5a70:6fbe
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::3fff:8f1a:c4b0:95a5%4
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.42
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::463b:14ff:fe37:e048%4
+                                       192.168.1.1
+
+Adaptador de Ethernet Conexi¢n de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+Thu Jun 18 12:32:57     2026
