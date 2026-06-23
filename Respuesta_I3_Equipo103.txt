@@ -29,3 +29,15 @@ get checkout martintez
 git add .
 git commit -m "Gamma:modificacion de archivo"
 git push origin martinez
+
+Alfa: Dan Ezequiel Ortu Aros
+
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+1. git Branch para saber en que rama estaba.
+2. git checkout para ver si el gitbash reconocia la rama a la que quieria ingresar.
+3. git swicht "nombre de la rama" para cambiar de rama.
+4. git pull para tener los datos.
+5. git add . para subir los cambios.
+6. git commit -m "cambios por alfa" para aplicar los cambios.
+7. git push para subir todos los cambios al GitHub.
