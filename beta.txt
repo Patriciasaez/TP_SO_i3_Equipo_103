@@ -59,3 +59,31 @@ Adaptador de Ethernet Ethernet 2:
    Puerta de enlace predeterminada . . . . . :
 
 Hora: 16:41
+
+
+ALFA: 
+Nombre: Dan 
+Apellido: Ortu
+
+Configuraci¢n IP de Windows
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2802:8010:b178:b200:b334:b15d:ab13:4c28
+   Direcci¢n IPv6 temporal. . . . . . : 2802:8010:b178:b200:1d60:1628:7a65:2e02
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::1771:e47b:6a60:9c04%17
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.33
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::1%17
+                                       192.168.1.1
+
+Adaptador de Ethernet Ethernet 3:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::e70b:8029:f9eb:fa48%7
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+HORA: 17:35
