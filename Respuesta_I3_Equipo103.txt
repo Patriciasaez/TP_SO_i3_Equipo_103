@@ -12,3 +12,20 @@ Los comandos que se usa¿o para realizar merge fueron los siguientes:
 2.- git pull origin main
 3.- git merge gamma 
 4.- git push origin main
+
+Responde GAMMA:
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+Si, quedan desactualizadas. La unica rama que queda actualizada es el main. Ya que ahi se pushean la mayoria de 
+las modificaciones.
+
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+En el punto 4 hubo conflictos al querer combinar las modificaciones con lo que estaba previamente en el archivo creado 
+por gamma. 
+
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+Los comandos son:
+get  fetch origin
+get checkout martintez
+git add .
+git commit -m "Gamma:modificacion de archivo"
+git push origin martinez
