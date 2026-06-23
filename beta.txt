@@ -37,3 +37,25 @@ Adaptador de Ethernet Conexi¢n de red Bluetooth:
    Estado de los medios. . . . . . . . . . . : medios desconectados
    Sufijo DNS espec¡fico para la conexi¢n. . : 
 Thu Jun 18 12:32:57     2026
+
+Gamma
+Nombre:Franco
+Apellido:Rodriguez Cristiano
+
+IPCONFIG:Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::20c:34f0:5a27:b29e%16
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.9
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.1.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::dc19:4383:1e06:c001%15
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Hora: 16:41
